@@ -1,0 +1,39 @@
+.div-main {
+  width: 100%;
+  margin: 10px auto;
+  padding: 20px;
+  background-color: #f4f4f9;
+  border-radius: 8px;
+}
+h1 {
+  color: #000000;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  font-size: 12px;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #104986;
+  color: white;
+  font-weight: bold;
+}
+
+td {
+  width: 100%;
+  background-color: #fff;
+  color: #333;
+}
